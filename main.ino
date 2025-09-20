@@ -6,8 +6,8 @@
 #define POWER_STATUS_PIN 18 // Pin connected to the optocoupler's collector to read power status
 
 
-const char* ssid = "The force";
-const char* password = "hefternettwix"; 
+const char* ssid = "YOUR WIFI SSID";
+const char* password = "YOUR WIFI PASSWORD";
 
 
 Espalexa espalexa;
